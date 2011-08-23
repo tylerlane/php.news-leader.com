@@ -1,0 +1,9 @@
+AuthName "Polls Admin"
+AuthType Basic
+AuthUserFile /www/domains/php.news-leader.com/polls/admin/.htpasswd
+AuthGroupFile /dev/null
+Require valid-user
+
+<Limit GET POST>
+require valid-user
+</Limit>

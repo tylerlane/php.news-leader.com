@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<conf>
+  <fips>029029</fips>
+  <fips>029043</fips>
+  <fips>029057</fips>
+  <fips>029059</fips>
+  <fips>029077</fips>
+  <fips>029097</fips>
+  <fips>029105</fips>
+  <fips>029109</fips>
+  <fips>029145</fips>
+  <fips>029167</fips>
+  <fips>029209</fips>
+  <fips>029213</fips>
+  <alert_width />
+  <alert_color />
+  <include_links />
+  <display_state />
+  <vtecs>AF-W</vtecs>
+  <vtecs>AS-W</vtecs>
+  <vtecs>BS-W</vtecs>
+  <vtecs>BW-W</vtecs>
+  <vtecs>BZ-W</vtecs>
+  <vtecs>CF-W</vtecs>
+  <vtecs>DU-W</vtecs>
+  <vtecs>EC-W</vtecs>
+  <vtecs>EH-Y</vtecs>
+  <vtecs>EH-A</vtecs>
+  <vtecs>EH-W</vtecs>
+  <vtecs>FF-W</vtecs>
+  <vtecs>FL-A</vtecs>
+  <vtecs>FL-W</vtecs>
+  <vtecs>FR-W</vtecs>
+  <vtecs>FW-W</vtecs>
+  <vtecs>FZ-W</vtecs>
+  <vtecs>GL-W</vtecs>
+  <vtecs>HF-W</vtecs>
+  <vtecs>HT-Y</vtecs>
+  <vtecs>HT-A</vtecs>
+  <vtecs>HT-W</vtecs>
+  <vtecs>HU-W</vtecs>
+  <vtecs>HW-W</vtecs>
+  <vtecs>HY-W</vtecs>
+  <vtecs>HZ-W</vtecs>
+  <vtecs>IP-W</vtecs>
+  <vtecs>IS-W</vtecs>
+  <vtecs>SB-A</vtecs>
+  <vtecs>SB-W</vtecs>
+  <vtecs>SN-A</vtecs>
+  <vtecs>SN-W</vtecs>
+  <vtecs>SR-W</vtecs>
+  <vtecs>SV-A</vtecs>
+  <vtecs>SV-W</vtecs>
+  <vtecs>TO-A</vtecs>
+  <vtecs>TO-W</vtecs>
+  <vtecs>WC-A</vtecs>
+  <vtecs>WC-W</vtecs>
+  <vtecs>WI-A</vtecs>
+  <vtecs>WI-W</vtecs>
+  <vtecs>WS-A</vtecs>
+  <vtecs>WS-W</vtecs>
+  <vtecs>WW-W</vtecs>
+  <vtecs>ZF-W</vtecs>
+  <vtecs>ZR-W</vtecs>
+</conf>

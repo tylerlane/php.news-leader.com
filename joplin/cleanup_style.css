@@ -1,0 +1,56 @@
+body,td,th {
+    font-family: Arial, Helvetica, sans-serif;
+    color:#fff;
+}
+
+body {
+    margin: 0;
+}
+
+#container {
+    margin-bottom: 10px;
+}
+
+.photoCredit {
+    font-size: 8pt;
+    color: #CACACA;
+}
+
+#pagingMenu {
+    margin: 10px auto 40px;
+    width: 900px;
+    color: #000000;
+}
+
+#pagingMenu a,a:visited {
+    text-decoration: none;
+    color: #000000;
+}
+
+#pagingMenu #currentPage {
+    font-weight: bold;
+}
+
+.balinks {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.bflinks a, a.visited {
+    text-decoration: none;
+    color: #ACACAC;
+}
+
+
+#container { width:900px; margin-left: auto; margin-right: auto; }
+p { margin:0; padding:0 }
+/*h1 { margin:0; padding:0; font:bold 18px Arial, Helvetica, sans-serif }*/
+#desc-text{
+margin-left: auto;
+margin-right: auto;
+font-family: Arial,Helvetica,sans-serif;
+color: black;
+}
+#fbcomments{ margin-left: 100px;margin-right:50px;float:left}
+#facebookWidget{ float:left}
+#ad{ margin-left:86px;margin-right:86px;}

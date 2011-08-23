@@ -1,0 +1,90 @@
+body{
+	margin:50px 0px; padding:0px;
+	text-align:center;
+	font-family:arial,sans-serif;
+	font-size: 0.9em;
+}
+#wrapper{
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#stuff{
+	text-align: left;
+	float: left;
+}
+#stuff h1{
+	font-weight: bold;
+
+}
+table tr td.field_label{
+	font-weight: bold;
+}
+.error{
+	color: red;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+#logo{
+	margin-bottom: 10px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+}
+
+#form{
+	float: left;
+	clear: both;
+	width: 400px;
+}
+#form input{
+	width: 200px;
+}
+#form #btn-submit{
+	width: 75px;
+}
+#form #reset{
+	width: 75px;
+}
+#contact_boxes input{
+	width: 10px;
+}
+#contact_boxes{
+	width: 400px;
+}
+#content{
+	margin-left: auto;
+	margin-right: auto;
+	border-style:solid;
+	border-width:15px;
+	border-color: #E84327;
+	padding: 15px;
+	width: 650px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	text-align: left;
+	background: #ED9522; /* for non-css3 browsers */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FDC910', endColorstr='#FBE595'); /* for IE */
+	background: -webkit-gradient(linear, left top, left bottom, from(#FDC910), to(#FBE595)); /* for webkit browsers */
+	background: -moz-linear-gradient(top,  #FDC910,  #FBE595); /* for firefox 3.6+ */
+	
+}
+#footer p{
+	font-size: 0.9em;
+	clear: both;
+	
+}
+#otherlogos
+{
+	margin: 5px;
+	clear: left;
+	border-left: 1px black dotted;
+}
+#misc{
+	clear: both;
+	width: 400px;
+	font-size: 0.6em;
+}
+#misc ul li{
+	list-style: bullet;
+}

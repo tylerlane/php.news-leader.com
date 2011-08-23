@@ -1,0 +1,37 @@
+body { font-size: 80%; }
+#controls ul,#controls li{
+	display: inline;
+}
+#links ul,#link li, #links a{
+	display: inline;
+	list-style: none;
+}
+#question,#results{
+	width: 400px;
+	height: 350px;
+	padding: 5;
+}
+#question_date,#result_date{
+	width:100px;
+}
+#question_div{
+	display: block;
+}
+#results_div{
+	display: block;
+}
+#foo ul, #foo li{
+	display: inline;
+}
+
+#dialog label, #dialog input,#dialog textarea,#dialog select,#dialog option { display:block; }
+input.text,textarea { margin-bottom:12px; width:95%; padding: .4em; }
+input#start_date{ width:100px; }
+input#max_options{ width:75px; }
+fieldset { padding:0; border:0; margin-top:25px; }
+h1 { font-size: 1.2em; margin: .6em 0; }
+div#polls-contain {  width: 850px; margin: 20px 0; }
+div#polls-contain table { margin: 1em 0; border-collapse: collapse; width: 100%; }
+div#polls-contain table td, div#polls-contain table th { border: 1px solid #eee; padding: .6em 10px; text-align: left; }
+.ui-button { outline: 0; margin:0; padding: .4em 1em .5em; text-decoration:none;  !important; cursor:pointer; position: relative; text-align: center; }
+.ui-dialog .ui-state-highlight, .ui-dialog .ui-state-error { padding: .3em;  }

@@ -1,0 +1,6 @@
+<FilesMatch setup.php>
+AuthName "Restricted File"
+AuthType Basic
+AuthUserFile /www/domains/php.news-leader.com/weather/.htpasswd
+require valid-user
+</FilesMatch>
